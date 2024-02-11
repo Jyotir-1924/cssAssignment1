@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.hclogo{
+    height: 240px;
+    border-radius: 50%;
+    border: 10px solid lime;
+    display: block;
+    margin: 0 auto;
+}
+
+.intro{
+    width: 500px;
+    margin: 100px auto;
+    padding: 30px;
+    font-size: 25px;
+    border: 2px solid lightgray;
+    border-radius: 15px;
+}
+.naviintro{
+    border-top: 2px solid lightgray;
+    padding: 10px;
+    text-align: center;
+}
+.nav{
+    text-decoration: none;
+    color: rgb(0, 60, 255);
+    font-size: 20px;
+    font-weight: bold;   
+}
+.c1{
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+}
+.c1emoji{
+    font-size: 50px;
+    margin: 20px;
+
+}
+.c1h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+.c1desc{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.c1btn{
+    width: 400px;
+    background-color: rgb(239, 239, 239);
+    border: none;
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+    margin: 10px;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+.c1toggle{
+    border-top: 2px solid lightgray;
+    margin: 20px;
+    padding: 20px;
+}
+.c2{
+    width: 420px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+}
+.c2btn{
+    width: 350px;
+    background-color: rgb(239, 239, 239);
+    border: none;
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+    margin: 10px;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+.extro{
+    color: rgb(161, 161, 161);
+}
+.logo{
+    height: 250px;
+}
+
+.otp{
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 3px solid rgb(140, 83, 255);
+    border-radius: 15px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+.validate{
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    font-size: 20px;
+    background-color: rgb(140, 83, 255);
+    color: white;
+    font-weight: 900;
+}
